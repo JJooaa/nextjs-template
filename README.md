@@ -10,10 +10,10 @@ If you dont have **Bun**, install it as follows:
 curl -fsSL https://bun.sh/install | bash
 ```
 
-## Dependencies
+## Dependencies ( that are worth of a mention ) 
 
-- **Create-Next-App** - Next.js - TailwindCSS - ESLint
-- **ShadcnUI** - All Components Installed
+- **Create-Next-App** - Next.js - TailwindCSS - ESLint - Typescript
+- **ShadcnUI** - Component Library - All Components Installed
 - **Next MDX** - Create blogs, docs, etc, easily with mdx files.
 - **TailwindCSS Typography** - For styling .mdx files.
 - **Prettier** - Opionated settings, you can change them if you want in `.prettierc`
