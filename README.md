@@ -11,11 +11,11 @@ curl -fsSL https://bun.sh/install | bash
 
 ## Dependencies
 
-** Create-Next-App ** - Next.js - TailwindCSS - ESLint
-** ShadcnUI ** - All Components Installed
-** Next MDX ** - Create blogs, docs, etc, easily with mdx files.
-** TailwindCSS Typography ** - For styling .mdx files.
-** Prettier ** - Opionated settings, you can change them if you want in `.prettierc`
+- **Create-Next-App** - Next.js - TailwindCSS - ESLint
+- **ShadcnUI** - All Components Installed
+- **Next MDX** - Create blogs, docs, etc, easily with mdx files.
+- **TailwindCSS Typography** - For styling .mdx files.
+- **Prettier** - Opionated settings, you can change them if you want in `.prettierc`
 
 First, run the development server:
 
