@@ -31,8 +31,8 @@ export async function contactFormSubmit(prevState: State, formData: FormData) {
   // Prepare data for insertion into the database
   const { id } = validatedFields.data
 
-  // Do something with the data
   try {
+    // Do something with the data
     console.log(id)
   } catch (e) {
     console.error(e)

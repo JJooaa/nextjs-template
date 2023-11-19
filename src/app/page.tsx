@@ -12,11 +12,11 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <BasicContainer>
+    <div className="container">
       <H1>This what this looks like</H1>
       <Paragraph>Hello what is this all about?</Paragraph>
       <Button>Hello world</Button>
       <Link href="/markdown/test">Test</Link>
-    </BasicContainer>
+    </div>
   )
 }

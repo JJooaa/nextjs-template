@@ -1,6 +1,8 @@
 import { baseUrl } from '@/lib/baseUrl'
 import { MetadataRoute } from 'next'
 
+// As you add more urls to the site make sure to add them here, so google can crawl them.
+
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
