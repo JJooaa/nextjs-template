@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`bunx create-next-app@latest`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Use Bun, instead of Node.s
+## The idea is to save 30 - 60 minutes of your life each time you start something new.
+## Use Bun
 
 If you dont have **Bun**, install it as follows:
 
@@ -9,10 +10,10 @@ If you dont have **Bun**, install it as follows:
 curl -fsSL https://bun.sh/install | bash
 ```
 
-## Dependencies
+## Dependencies ( that are worth of a mention ) 
 
-- **Create-Next-App** - Next.js - TailwindCSS - ESLint
-- **ShadcnUI** - All Components Installed
+- **Create-Next-App** - Next.js - TailwindCSS - ESLint - Typescript
+- **ShadcnUI** - Component Library - All Components Installed
 - **Next MDX** - Create blogs, docs, etc, easily with mdx files.
 - **TailwindCSS Typography** - For styling .mdx files.
 - **Prettier** - Opionated settings, you can change them if you want in `.prettierc`
