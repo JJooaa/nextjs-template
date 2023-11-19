@@ -2,7 +2,7 @@ import '@/styles/globals.css'
 import { ThemeProvider } from '@/components/theme-provider'
 import { cn } from '@/lib/utils'
 import { inter } from '@/fonts/inter'
-import { metadataRoot } from '@/metadata/metadata'
+import { metadataRoot } from '@/config/metadata'
 
 export const metadata = metadataRoot
 

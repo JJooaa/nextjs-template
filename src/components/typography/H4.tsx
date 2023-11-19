@@ -1,3 +1,5 @@
-export function H4({ children }: { children: React.ReactNode }) {
-  return <h4 className="text-xl font-semibold tracking-tight">{children}</h4>
+import { cn } from '@/lib/utils'
+
+export function H4({ children, className }: { children: React.ReactNode; className?: string }) {
+  return <h4 className={cn('text-xl font-semibold tracking-tight', className)}>{children}</h4>
 }

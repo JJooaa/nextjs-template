@@ -10,7 +10,7 @@ export const metadataRoot: Metadata = {
   description: "Jane Doe's Wesbite",
   generator: 'Next.js',
   applicationName: 'Sisu Kickstart',
-  keywords: [],
+  keywords: ['website', 'jane doe'],
   authors: [{ name: 'Jane', url: 'https://janedoe.com' }],
   creator: 'Jane Doe',
 }

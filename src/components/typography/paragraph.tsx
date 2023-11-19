@@ -1,3 +1,11 @@
-export function Paragraph({ children }: { children: React.ReactNode }) {
-  return <p className="leading-7">{children}</p>
+import { cn } from '@/lib/utils'
+
+export function Paragraph({
+  children,
+  className,
+}: {
+  children: React.ReactNode
+  className?: string
+}) {
+  return <p className={cn('leading-7', className)}>{children}</p>
 }
