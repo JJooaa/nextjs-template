@@ -6,6 +6,7 @@ import { metadataRoot } from '@/metadata/metadata'
 
 export const metadata = metadataRoot
 
+// testing
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
