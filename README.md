@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`bunx create-next-app@latest`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## The idea is to save 30 - 60 minutes of your life each type you start something new.
-## Use Bun, instead of Node.s
+## The idea is to save 30 - 60 minutes of your life each time you start something new.
+## Use Bun
 
 If you dont have **Bun**, install it as follows:
 
