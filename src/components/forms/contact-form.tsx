@@ -9,6 +9,7 @@ export function ContactForm() {
     errors: {},
   }
 
+  // Ts-ignore here, because I am pretty sure it's bugged atm.
   // @ts-ignore
   const [state, dispatch] = useFormState(contactFormSubmit, initialState)
 

@@ -3,6 +3,7 @@ import { H1 } from '@/components/typography/H1'
 import { Paragraph } from '@/components/typography/paragraph'
 import { Button } from '@/components/ui/button'
 import { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -15,6 +16,7 @@ export default function Home() {
       <H1>This what this looks like</H1>
       <Paragraph>Hello what is this all about?</Paragraph>
       <Button>Hello world</Button>
+      <Link href="/markdown/test">Test</Link>
     </BasicContainer>
   )
 }

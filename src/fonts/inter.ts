@@ -1,7 +1,7 @@
 import { Inter } from 'next/font/google'
 
 /* 
-	good fonts on google fonts:
+  Great Google Fonts:
 	- Inter,
 	- Manrope,
 	- Space Grotesk,
